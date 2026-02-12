@@ -4,5 +4,5 @@ print("Enter your Age:")
 Age=int(input())
 print("my Name is:",Name)
 print("my Age is:",Age)
-
+print("my Name is:",Name,"and my Age is:",Age)
 
